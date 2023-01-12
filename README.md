@@ -2,12 +2,12 @@
 A simulated project using ZenHub kanban board apply aglie development practices
 
 
-***Final Project Overview and Scenario 
-**OVERVIEW  
+###Final Project Overview and Scenario
+##OVERVIEW  
 
 Now that you have been equipped with the knowledge and skills to create sprint plans, you will have the opportunity in this final project to practice and apply it by creating stories, assembling them into a product backlog, refining them to produce a sprint plan, and perform a mock sprint that involves moving stories across your kanban board as your team would do in a real sprint.  
 
-**FINAL PROJECT SCENARIO  
+##FINAL PROJECT SCENARIO  
 
 In this scenario, you will play the roles of a product owner, scrum master, and developer. As a product owner, you will create stories for your team and organize these stories into a product backlog. As a scrum master, you will create a sprint milestone and make sure that a subset of the stories is ready to be placed in a sprint plan. As a developer, you will create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint. 
 
